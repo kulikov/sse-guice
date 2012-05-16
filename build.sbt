@@ -1,5 +1,3 @@
-organization := "com.libitec"
-
 name := "sse-guice"
 
 version := "0.5.0"
