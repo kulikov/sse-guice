@@ -7,5 +7,6 @@ version := "0.5.0"
 scalaVersion := "2.9.2"
 
 libraryDependencies ++= Seq(
-  "com.google.inject" % "guice" % "3.0"
+  "com.google.inject" % "guice" % "3.0",
+  "junit" % "junit" % "4.10"
 )
